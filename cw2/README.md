@@ -1,5 +1,5 @@
 # Coursework 2
-Note: The project is running on Python 3.6 
+####Note: The project is running on Python 3.6 
 
 ## File Structure 
 ```
@@ -8,6 +8,7 @@ CW2
 │   1. Baseline.ipynb  (The baseline method jupyter notebook)  
 │   2. Distance Metric Learning.ipynb (The Distance Metric jupyter notebook)
 │   query_rank_list.csv
+│   report.pdf
 │
 └───.ipynb_checkpoints
 │   
@@ -39,6 +40,8 @@ Python
 
 * python3 -m pip install --upgrade pip
 * python3 -m pip install jupyter
+
+#### Deatails of this project is discribed in the report, report.pdf. 
 
 
 
