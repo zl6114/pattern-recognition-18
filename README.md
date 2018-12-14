@@ -1,8 +1,9 @@
-# PatternRecongnition18
-Coursework Repository with my bro Aufar Laksana
+# pattern recognition
+Coursework Repository with my teammate Aufar Laksana
 
-### Question1:
-for LD-PCA and HD-PCA should we normailize the eigenvalue?
-  does the normailization means taking the mean value from it?
-    why would it inverted for some of the faces after we normalized the faces in LD
+### CW1:
+Subspace Learning, foucsing on PCA, LDA
+
+### CW2: 
+Distance Metric Learning for Person re-id Problem
 
