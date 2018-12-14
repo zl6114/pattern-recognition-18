@@ -21,7 +21,7 @@ CW2
 │   1. Baseline.ipynb  (The baseline method jupyter notebook)  
 │   2. Distance Metric Learning.ipynb (The Distance Metric jupyter notebook)
 │   query_rank_list.csv
-│   report.pdf
+│   cw2_zl6114_apl115.pdf
 │
 └───.ipynb_checkpoints
 │   
@@ -70,5 +70,5 @@ All the distance learning methods discussed in the report are available in the J
 * python3 -m pip install --upgrade pip
 * python3 -m pip install jupyter
 
-#### Details of this project is described in the report, report.pdf. 
+#### Details of this project is described in the report, cw2_zl6114_apl115.pdf. 
 
